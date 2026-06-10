@@ -1,0 +1,24 @@
+Day 1 – Basic Canvas Setup
+"Write a C program for a simple 2D graphics editor using a character array as a canvas."
+"Create an 80x24 drawing area using a 2D array."
+"Add functions to clear the canvas and display it on the screen."
+"Use '_' for empty spaces and '*' for drawn pixels."
+Day 2 – Drawing Pixels and Lines
+"Add a function to set a pixel at given x and y coordinates."
+"Validate coordinates before drawing pixels."
+"Implement a line drawing algorithm in C."
+"Use Bresenham's line drawing algorithm for accurate line rendering."
+"Allow users to enter coordinates and draw lines interactively."
+Day 3 – Adding Shapes
+"Add a rectangle drawing function using four lines."
+"Create a menu-driven interface for selecting shapes."
+"Implement circle drawing using the midpoint circle algorithm."
+"Add a function to draw triangles using three connected lines."
+"Keep previously drawn shapes on the canvas."
+Day 4 – Final Improvements
+"Add an infinite menu loop until the user chooses Exit."
+"Display canvas dimensions and coordinate ranges."
+"Improve code readability with separate functions."
+"Add comments explaining each shape-drawing function."
+"Handle invalid menu choices."
+"Create a complete menu-driven ASCII 2D graphics editor in C supporting lines, rectangles, circles, triangles, display canvas, and exit options."
